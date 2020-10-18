@@ -6,7 +6,7 @@ This is also a good time to take a pause and have 1:2 meetings for each student 
 
 ## Course material
 
-The Data Visualization module is available [here](http://scavetta.academy/misk/dataviz/_book/index.html). We'll use a [Miro board](https://miro.com/app/board/o9J_kiQl5uU=/) to discuss the material in our group sessions.
+The Data Visualization module is available [here](http://scavetta.academy/misk/dataviz/_book/understanding-the-purposes-of-data-visualization.html). We'll use a [Miro board](https://miro.com/app/board/o9J_kiQl5uU=/) to discuss the material in our group sessions.
 
 ## Schedule
 
