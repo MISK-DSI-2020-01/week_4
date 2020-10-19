@@ -8,6 +8,8 @@ This is also a good time to take a pause and have 1:2 meetings for each student 
 
 The Data Visualization module is available [here](http://scavetta.academy/misk/dataviz/_book/understanding-the-purposes-of-data-visualization.html). We'll use a [Miro board](https://miro.com/app/board/o9J_kiQl5uU=/) to discuss the material in our group sessions.
 
+For our coding sessions, please read through and execute the code in the ggplot2 tutorial [here](https://github.com/MISK-DSI-2020-01/dataviz_R).
+
 ## Schedule
 
 Unless otherwise noted, group session can be accessed in [this Zoom room](https://zoom.us/j/5842919624?pwd=VFVxUWg0M29FU09JaktrZTloQ1lodz09)
